@@ -2,8 +2,8 @@
 
 This assignment will help you get started with brushing and linking. Please look through all these materials so you understand how to run and organize your code.
 
-Link to your page: https://REPLACE-ME
-E.g., https://neu-cs-7250-s20-staff.github.io/Assignment--Brushing_and_Linking/
+Link to your page: https://github.com/WSMAISRH/Assignment-3/blob/gh-pages/README.md
+
 
 # Aim of the assignment
 
